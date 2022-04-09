@@ -76,3 +76,11 @@ there is already a command in place for anti-abuse, feel free to remove it in yo
 # Contact me
 ---
 > Discord: krane#2890
+
+
+
+
+
+
+#### tags
+house homes fivem houses case home vrp vrp_house vrp_housing vrp_homes
